@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        val a : Int
         // Reference / Binding
         val etFirst: EditText =
                 findViewById(R.id.etFirst)
