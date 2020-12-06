@@ -10,7 +10,7 @@ class GridActivity : AppCompatActivity() {
 
         val a : Int
 
-        val test : Int
+        val test2 : Int
     }
 
 }
