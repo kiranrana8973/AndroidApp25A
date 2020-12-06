@@ -9,6 +9,7 @@ class GridActivity : AppCompatActivity() {
         setContentView(R.layout.activity_grid)
 
         val a : Int
+        val test2 :Int
     }
 }
 //asdasda
