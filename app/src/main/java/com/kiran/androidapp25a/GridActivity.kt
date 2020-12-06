@@ -11,6 +11,7 @@ class GridActivity : AppCompatActivity() {
         val a : Int
 
         val test : Int
+        val testtt : Int
     }
 
 }
